@@ -1,0 +1,7 @@
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\Tarea 1.1 Ejemplo\Tarea 1.1 Ejemplo\bin\Debug\Tarea 1.1 Ejemplo.exe.config
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\Tarea 1.1 Ejemplo\Tarea 1.1 Ejemplo\bin\Debug\Tarea 1.1 Ejemplo.exe
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\Tarea 1.1 Ejemplo\Tarea 1.1 Ejemplo\bin\Debug\Tarea 1.1 Ejemplo.pdb
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\Tarea 1.1 Ejemplo\Tarea 1.1 Ejemplo\obj\Debug\Tarea 1.1 Ejemplo.csprojAssemblyReference.cache
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\Tarea 1.1 Ejemplo\Tarea 1.1 Ejemplo\obj\Debug\Tarea 1.1 Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\Tarea 1.1 Ejemplo\Tarea 1.1 Ejemplo\obj\Debug\Tarea 1.1 Ejemplo.exe
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\Tarea 1.1 Ejemplo\Tarea 1.1 Ejemplo\obj\Debug\Tarea 1.1 Ejemplo.pdb
